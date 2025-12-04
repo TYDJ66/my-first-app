@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Sidebar } from './components/Sidebar';
+import { Sidebar } from './components/MySidebar';
 import { Camera, CameraHandle } from './components/Camera';
 import { Student, AttendanceRecord, Page } from './types';
 import { Menu, Download, CheckCircle, Clock, Users, UserPlus, ArrowRight, RefreshCw, Save, ChevronRight, Upload, Camera as CameraIcon, AlertTriangle, XCircle, Search } from 'lucide-react';
