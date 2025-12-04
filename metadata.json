@@ -1,0 +1,7 @@
+{
+  "name": "人脸签到系统 Pro",
+  "description": "基于Web的人脸识别课堂签到系统仿真项目。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
